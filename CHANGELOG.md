@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased - workspace Bevy 0.20
+
+- This crate has no direct Bevy dependency; the workspace remains usable with Bevy 0.20.
+
+
 All notable changes to `bevy_stable_id` will be documented in this file.
 
 ## 0.1.0 - Unreleased

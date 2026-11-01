@@ -1,5 +1,11 @@
 # bevy_stable_id
 
+## Bevy compatibility
+
+| bevy_stable_id | Bevy |
+|---|---|
+| Workspace source | No Bevy dependency; usable with Bevy 0.20 |
+
 `bevy_stable_id` provides one small persistent identifier shared by independent
 Bevy ecosystem crates.
 
